@@ -74,7 +74,7 @@ cd CPU-Scheduling-Simulator
 
 Step 3: Compile
 
-g++ -std=c++11 main.cpp -o scheduler
+g++ -std=c++11 BM2043.cpp -o scheduler
 
 Step 4: Execute
 
